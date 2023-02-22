@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: 'Labrada', serif;
+}
+h1 {
+    font-size: 40px;
+}
+.welcome-color {
+    color: orange;
+}
+
+section {
+    height: 500px;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
+.top-banner {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
